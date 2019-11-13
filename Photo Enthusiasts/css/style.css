@@ -1,0 +1,29 @@
+/*CONTACT FORM STYLE*/
+
+#contact [type="text"]{
+    width: 10%;
+    border: 2px solid red;
+    margin: 5px;
+    border-radius: 3px;
+}
+
+/*DESCRIPTION STYLE*/
+
+#description{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.pe{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+/*FOOTER STYLE*/
+
+#footer{
+    bottom: 0%;
+}
