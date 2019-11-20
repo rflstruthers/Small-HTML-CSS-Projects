@@ -1,2 +1,2 @@
-# The-Tech-Academy-HTML-CSS-Large
-Large coding projects for HTML/CSS course
+# HTML and CSS
+This repo contains small HTML and CSS coding projects I have worked on.
